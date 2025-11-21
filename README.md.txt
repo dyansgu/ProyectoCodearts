@@ -1,4 +1,4 @@
-# 🎓 Gestor Académico - Enterprise Edition
+# 🎓 Gestor Académico
 
 Sistema de gestión académica de escritorio desarrollado en **Python**. Diseñado con una interfaz gráfica moderna estilo **SaaS** (Software as a Service), priorizando la usabilidad (UX), la estética corporativa y la integridad de datos.
 
