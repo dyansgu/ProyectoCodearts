@@ -317,7 +317,6 @@ def abrir_añadir_alumno(root):
 
 def abrir_añadir_curso(root):
     w = tk.Toplevel(root); w.withdraw(); w.title("Gestor de Cursos"); w.config(bg=COLOR_FONDO)
-    # CURSOS NO TIENE CALENDARIO -> PUEDE SER MODAL
     w.transient(root); w.grab_set(); w.focus_force()
     centrar_ventana(w, 750, 550); w.resizable(False, False)
 
@@ -403,7 +402,6 @@ def abrir_gestion_tareas(root):
 def abrir_gestion_entregas(root):
     w = tk.Toplevel(root); w.withdraw(); w.title("Gestor de Entregas"); w.config(bg=COLOR_FONDO)
     
-    # --- CORRECCIÓN CALENDARIO ---
     w.focus_force()
     
     centrar_ventana(w, 900, 600); w.resizable(False, False)
