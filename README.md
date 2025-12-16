@@ -12,6 +12,10 @@ Este proyecto es una solución **CRUD** (Create, Read, Update, Delete) completa 
 
 A diferencia de gestores básicos, este sistema implementa **restricciones SQL estrictas** y una interfaz reactiva que guía al usuario, evitando errores comunes y corrupción de datos.
 
+## 📸 Galería de la Aplicación
+<img width="789" height="470" alt="image" src="https://github.com/user-attachments/assets/502dc223-50cb-4c39-9825-53a96baf0cc3" />
+<img width="781" height="594" alt="image (1)" src="https://github.com/user-attachments/assets/5e10bfb5-7772-4581-b7fd-ba7f41c576c8" />
+
 ## ✨ Características Clave
 
 ### 🎨 Interfaz de Usuario (UI/UX)
